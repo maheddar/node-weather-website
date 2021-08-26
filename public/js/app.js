@@ -34,6 +34,7 @@ weatherForm.addEventListener('submit', (e) => {
             messageOne.textContent = Location;
             messageTwo.textContent = forecast;
 
+        
         }
     })
 })
